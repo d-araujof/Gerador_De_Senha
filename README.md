@@ -1,6 +1,6 @@
 ![img](-)
 
-Você pode acessá-lo com este [link.](https://d-araujof.github.io/Gerador_De_Senha/)
+Você pode acessá-lo com este [link.](https://github.com/d-araujof/Gerador_De_Senha/blob/f0d7ab203dafae3622829e91506011ff71b6a52c/img/gerador_de_senha.png)
 
 ---
 
