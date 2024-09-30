@@ -1,23 +1,36 @@
-# Gerador de Senha
+![img](-)
 
-O Gerador de Senha é uma ferramenta simples e eficaz para criar senhas seguras e complexas. Este gerador pode ser útil para garantir a segurança de suas contas online, protegendo-as contra ataques de hackers e violações de segurança.
+Você pode acessá-lo com este [link.](-)
 
-## Funcionalidades
+---
+
+## **💻 Sobre**
+
+O Gerador de Senha é uma ferramenta simples e eficaz para criar senhas seguras e complexas.
+
+Alguns features existentes são:
 
 - Geração de senhas com diferentes comprimentos.
 - Opções para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
-- Botão para copiar a senha gerada para a área de transferência.
 
-## Linguagens utilizadas
+Você pode acessá-lo com este [link.](-)
 
-- HTML
-- CSS
-- JS
+---
 
-## Contribuição
+## **🚀 Tecnologias**
 
-Sinta-se à vontade para contribuir com melhorias para o gerador de senha. Basta fazer um fork deste repositório, fazer as alterações desejadas e enviar um pull request.
+Esse projeto foi desenvolvido com as seguintes ferramentas:
 
-## Licença
+- HTML5
+- CSS3
+- JavaScript
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
+---
+
+## **📝 Licença**
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Desenvolvido com ❤️ por Maria Eduarda
