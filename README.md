@@ -1,6 +1,6 @@
 ![img](-)
 
-Você pode acessá-lo com este [link.](-)
+Você pode acessá-lo com este [link.](https://d-araujof.github.io/Gerador_De_Senha/)
 
 ---
 
@@ -12,8 +12,9 @@ Alguns features existentes são:
 
 - Geração de senhas com diferentes comprimentos.
 - Opções para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
+- Botão para copiar a senha gerada
 
-Você pode acessá-lo com este [link.](-)
+Você pode acessá-lo com este [link.](https://d-araujof.github.io/Gerador_De_Senha/)
 
 ---
 
